@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبتي في الليل قلبي يشتعل
+> نار الشوق في دمي لا ترحل
+> عيناكِ سحر والروح لكِ تميل
+> تعالي إلي هذا العشق دليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
