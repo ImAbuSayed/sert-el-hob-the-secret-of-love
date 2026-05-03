@@ -11,6 +11,7 @@
 | Title | Sert El Hob – The Secret of Love |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
 | Lyric Writing Date | April 23, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/sert-el-hob-the-secret-of-love/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
